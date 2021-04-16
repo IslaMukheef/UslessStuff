@@ -1,4 +1,5 @@
-## Anonybox - AES-256 Encrypted Mailbox
+## THİS PROJECT İS DEAD 
+## Anonybox - AES-256 Encrypted Mailbox 
 
 ###  Python 3:
 
