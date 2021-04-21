@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>RickRoll</title>
+    <link rel="stylesheet" href="home.css">
+    <script type = "text/javascript">  
+        function myfunction()
+         {   
+            var urls = new Array('https://www.youtube.com/watch?v=BT9h5ifR1tY&ab_channel=Earrapes','https://www.youtube.com/watch?v=HIcSWuKMwOw&ab_channel=10Hours', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO');
+            window.location = urls[Math.floor(urls.length*Math.random())];
+            var temp = setInterval("redirect()", 3000);
+         }  
+    </script><!--i hate js-->
+</head>
+<body>
+    <h1> Totally not a rick roll </h1>
+    <p id="p1">The rules are simple you either get rick rolled or you get rick rolled</p>
+    <p class= "parent" id="p2">Don't be scared click on one</p>
+    <!--No no trust me it won't rick roll you anyway-->
+    <button onclick="myfunction()" class= "rickroll">Not rick roll</button>
+    <button onclick="myfunction()"class= "rickroll">rick roll</button>
+    <a  id="about" href=https://en.wikipedia.org/wiki/Rickrolling>What is rick roll</a>
+
+</body>
+</html>
