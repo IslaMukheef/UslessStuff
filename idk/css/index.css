@@ -1,0 +1,56 @@
+/* cool css code i know uwu */
+h1 {
+    position: relative;
+    color: red;
+    text-align: center;
+    font-family:Arial;
+    font-style: oblique;
+    font-size: 40px;
+    top: 25%;
+    }
+#p1 
+{
+    position: relative;
+    color:white;
+    top: 26%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    
+}
+#p2 
+{
+    position: relative;
+    color:white;
+    top: 27%;
+    left: 10px;
+    bottom: -15px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+body
+{
+        background-color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.rickroll 
+{
+    background-color: black;
+    position: relative;
+    color:white;
+    top: 29%;
+    left:40%;
+    width: 10%;
+    border: 1px solid rgb(212, 0, 255);
+    font-size: 18px;
+}
+#about 
+{
+    position: relative;
+    bottom:-80%;;
+    left:70%;
+    color:rgb(255, 255, 255);
+    width: 100%;
+    font-size: 18px;
+}
