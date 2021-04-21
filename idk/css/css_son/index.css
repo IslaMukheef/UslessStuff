@@ -1,0 +1,61 @@
+/* cool css code i know uwu */
+
+#LogoID
+{
+    position: relative;
+    left: 42%;
+    top:25%;
+}
+.search
+{
+    position: absolute;
+    left: 37%;
+    top:40%;
+    border-style: solid;
+    border-radius: 12px;
+    border: 1px solid gray;
+}
+#InputID {
+    border-style: hidden;
+    outline: none;
+    font-size: 16px;
+}
+.search:hover,#b1:hover,#b2:hover
+{
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+}
+.buttons
+{
+    position: absolute;
+    left: 43%;
+    top:47%;
+}
+#ListID
+{
+    float: left;
+    border: 20px solid white;
+    width: 10%;
+}
+.left_stuff
+{
+    position: absolute;
+    right: 0%;
+    top:0%;
+
+}
+.BottomC
+{
+    border: 1px solid rgb(218, 215, 215);
+    width: 100%;
+    height: 85px;
+    background-color: rgb(241, 238, 238);
+    position: absolute;
+    left: 0%;
+    bottom:0%;
+}
+#testid
+{
+    color:gray;
+    text-decoration: none;
+    
+}
